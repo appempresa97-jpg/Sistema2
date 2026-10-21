@@ -1,5 +1,0 @@
-COMPLIANCE V23 — Layout compacto de evidências e relatório de planos.
-Inventário: sem coluna Plano e Responsável (campos permanecem no cadastro), nome sem repetição, linhas compactas e verde mais forte para evidências disponíveis.
-Relatório: tarefas em uma linha, andamento primeiro, concluídas depois, detalhes expansíveis.
-Impressão/PDF: regras próprias para A4 paisagem, sem sobreposição entre resumo e tarefas.
-Substitua os arquivos do sistema; mantenha seu Excel atual. Atualize com Ctrl+Shift+R. Faça backup do Excel antes de testar.
