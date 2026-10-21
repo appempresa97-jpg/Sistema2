@@ -1,0 +1,7 @@
+COMPLIANCE V23.1 — BOTÃO SAIR DO APLICATIVO
+
+Apenas uma melhoria na V23: botão Sair do aplicativo na lateral esquerda.
+Ao clicar, tenta salvar alterações pendentes antes de sair, cancela a saída se não confirmar o salvamento, desconecta o Excel, elimina a referência persistente ao arquivo, fecha formulários e limpa as informações carregadas na tela.
+A página volta ao Dashboard vazio. Para entrar novamente, clique em Conectar Excel e escolha seu arquivo.
+Não altera nem apaga o Excel em disco. Não protege os dados com senha e não revoga permissões concedidas ao site pelo navegador; desconecta apenas a sessão do aplicativo.
+Substitua index.html, app.js e style.css. Pressione Ctrl+Shift+R. Faça backup do Excel antes de atualizar.

@@ -88,3 +88,7 @@ dialog{width:min(1380px,98vw);box-shadow:0 28px 95px #081d3f75}.microsection{bac
  .report-micros{padding:4px!important}.report-micro{font-size:9px!important;padding:3px!important}
  .report-task-head,.report-task-done .report-task-head,.report-micro-done,.ev-green{print-color-adjust:exact!important;-webkit-print-color-adjust:exact!important}
 }
+
+/* V23.1 — botão de sair sem alterar as telas */
+.sidebottom .logout-button{width:100%;display:block;margin-top:8px;border:1px solid #ffffff55;border-radius:9px;padding:10px 12px;background:#ffffff12;color:#fff;font:600 12px Inter,Arial,sans-serif;cursor:pointer;text-align:left}
+.sidebottom .logout-button:hover{background:#c93845;color:#fff;border-color:#c93845}
